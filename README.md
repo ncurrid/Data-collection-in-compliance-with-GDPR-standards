@@ -1,4 +1,12 @@
 # Data collection in compliance with GDPR standards
+
+## Tools
+**Microsoft Excel & Power Query**: for data cleaning, transformation, and anonymisation
+
+**SQLite Studio**: for data extraction and structure analysis
+
+**Microsoft PowerPoint**: for the final presentation
+
 # I. Context
 As part of a consulting mission, I worked as a Business Intelligence (BI) Analyst for Dev'Immediat, an automobile insurance brokerage firm.
 
@@ -73,10 +81,3 @@ Prepared a clear and concise presentation for the General Manager, focusing on:
 - Key recommendations.
 
 Maintain a reassuring and constructive tone, emphasising progress and practical steps forward.
-
-# III. Tools used
-Microsoft Excel & Power Query: for data cleaning, transformation, and anonymisation
-
-SQLite Studio: for data extraction and structure analysis
-
-Microsoft PowerPoint: for the final presentation
